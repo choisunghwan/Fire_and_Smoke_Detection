@@ -1,3 +1,5 @@
+## 화재 탐지 시스템
+
 import torch
 print(torch.__version__)
 torch 버전: 1.90 +cpu
