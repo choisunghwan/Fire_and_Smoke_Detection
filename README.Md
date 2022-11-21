@@ -10,14 +10,19 @@
  > 22.11.13 - 22.11.20
 
 
-import torch
-print(torch.__version__)
+## 🛠 개발 환경
 torch 버전: 1.90 +cpu
 
+``` C
+import torch
+print(torch.__version__)
+```
 
-> import torchvision
-> torchvision.__version__
-'0.10.0+cpu'
+torchvision 버전: '0.10.0+cpu'
+``` C
+import torchvision
+print(torchvision.__version__)
+```
 
 
 pip install torchvision == 0.10.0
