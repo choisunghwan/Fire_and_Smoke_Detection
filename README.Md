@@ -34,7 +34,7 @@ pip install torchvision == 0.10.0
 
 ```C
  
- 1. WebSocket 다운 > server.js 실행 ( 터미널 명령어 : node.server)
+ 1. WebSocket( https://github.com/choisunghwan/WebSocketserver ) 다운 > server.js 실행 ( 터미널 명령어 : node.server)
  
  2. detection.py 실행
  
