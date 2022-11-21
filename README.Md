@@ -24,19 +24,33 @@ import torchvision
 print(torchvision.__version__)
 ```
 
+### 🕹실행 방법
 
+<p> torchvision 만 설치하면 자동으로 torch는 설치됩니다.
+ 
+```C
 pip install torchvision == 0.10.0
+```
 
-### 실행 방법
+```C
+ 
+ 1. WebSocket 다운 > server.js 실행 ( 터미널 명령어 : node.server)
+ 
+ 2. detection.py 실행
+ 
+```
+ 
+### Screenshot
+ 
+ #### 1. 화재 탐지 한다.
 
+<img src="https://user-images.githubusercontent.com/33335762/202965703-d2c9a1b3-4585-411f-ab48-bb7fca92be8f.png" width="480" />
 
+ #### 2-1 화재 탐지 전 페이지 화면
+ 
+<img src="https://user-images.githubusercontent.com/33335762/202965890-29b9308f-b27a-47c8-9eef-9396bd1a7ebb.png" width="480" />
 
-<h3>Screenshot</h3>
+#### 2-2 화재 탐지시 페이지 화면
+ 
+ <img src="https://user-images.githubusercontent.com/33335762/202965833-644469cf-7070-4cdc-8e1e-2f3110ddf9c6.png" width="480" />
 
-![image](https://user-images.githubusercontent.com/33335762/202965703-d2c9a1b3-4585-411f-ab48-bb7fca92be8f.png)
-
-
-![image](https://user-images.githubusercontent.com/33335762/202965890-29b9308f-b27a-47c8-9eef-9396bd1a7ebb.png)
-
-
-![image](https://user-images.githubusercontent.com/33335762/202965833-644469cf-7070-4cdc-8e1e-2f3110ddf9c6.png)
